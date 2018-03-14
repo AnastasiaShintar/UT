@@ -39,7 +39,7 @@ public class TrianglePositiveTests {
                         {new Double(3.2), new Double(4.3), new Double(4.3), TR_ISOSCELES},
                         {new Double(4.86), new Double(4.86), new Double(4.86), TR_EQUILATERAL+TR_ISOSCELES},
                         {new Double(3.35), new Double(4.86), new Double(5.63), TR_ORDINARY},
-                        {new Double(10.16), new Double(7.1842048968553), new Double(7.1842048968553), TR_ISOSCELES+TR_RECTANGULAR},
+                        {new Double(3.32), new Double(3.32), new Double(Math.sqrt(3.32*3.32 + 3.32*3.32)), TR_ISOSCELES+TR_RECTANGULAR},
                 };
     }
 
