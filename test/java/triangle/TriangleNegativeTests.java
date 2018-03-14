@@ -40,19 +40,19 @@ public class TriangleNegativeTests {
 
     @Test
     public void CheckTriangleNotNumberTest(){
-        Assert.fail("The program doesn't implement the behavior when input side is not a number.");
+        Assert.fail("[The program doesn't implement the behavior when input side is not a number.]");
 
     }
 
     @Test
     public void detectTriangleNegativeTest() {
 
-        Assert.fail("The program doesn't implement the behavior when creating nonexistent triangles with zero and negative sides or when input side is not a number.");
+        Assert.fail("[The program doesn't implement the behavior when creating nonexistent triangles with zero and negative sides or when input side is not a number.]");
     }
 
     @Test
     public void getSquareNegativeTest(){
-        Assert.fail("The program doesn't implement the behavior when calculating the area of nonexistent triangles with zero and negative sides or when input side is not a number.");
+        Assert.fail("[The program doesn't implement the behavior when calculating the area of nonexistent triangles with zero and negative sides or when input side is not a number.]");
     }
 
 
